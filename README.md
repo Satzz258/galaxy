@@ -1,2 +1,0 @@
-# galaxy
-profile galaxy
